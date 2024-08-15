@@ -18,7 +18,7 @@ This is a Python-based project for managing supermarket inventory. The system al
 ## Installation-
 1. **Clone the repository**
    ```bash
-    git clone https://github.com/dhritishetty/SuperTrack
+    git clone https://github.com/dhritishetty/SuperTrack.git
     ```
 2. **Install MySQL:**
     - Install MySQL on your system if not already installed.
